@@ -6,7 +6,7 @@ This is a short project applying the Faster R-CNN object detection model to a da
 
 ## Dataset
 
-The dataset is from Kaggle can be found [here](https://www.kaggle.com/datasets/kailaspsudheer/tiny-object-detection). It cossists of 3000 satellite images labelled with bounding boxes for vehicles.
+The dataset is from Kaggle can be found [here](https://www.kaggle.com/datasets/kailaspsudheer/tiny-object-detection). It consists of 3000 satellite images labelled with bounding boxes for vehicles.
 
 ## Installation:
 
