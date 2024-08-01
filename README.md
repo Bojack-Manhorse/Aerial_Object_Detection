@@ -18,6 +18,8 @@ pip install -r requirements.txt
 
 If you have a different version of Python installed then consider creating a new conda enviroment.
 
-Once the requirements are set up, download the dataset from the link above and ensure the file structure looks like this:
+Once the requirements are set up, download the dataset from the link above and extract the content to the folder `Datasets`. Ensure the file structure within the folder looks like this:
+
+![img](Readme_Images/Dataset_File_Structure.png)
 
 Then, run all the cells in the notebook, the model will be trained and the parameters will be saved in the directory `weights`.
