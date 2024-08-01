@@ -2,7 +2,7 @@ Datasets/train
 Datasets/test
 Datasets/valid
 runs
-weights/*
+weights/best_model.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
